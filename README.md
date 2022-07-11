@@ -1,0 +1,2 @@
+# AVR_COTS_1.0
+COTS for AVR Atmega32
